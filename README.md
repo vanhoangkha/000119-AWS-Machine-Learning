@@ -1,4 +1,4 @@
-# 🤖 AWS Machine Learning
+# AWS Machine Learning
 
 Introduction to AWS machine learning services.
 
@@ -8,7 +8,7 @@ This is a hands-on workshop from the **AWS First Cloud Journey** series.
 
 ## Workshop
 
-📖 **[Start the workshop](https://vanhoangkha.github.io/000119-AWS-Machine-Learning/)**
+**[Start the workshop](https://vanhoangkha.github.io/000119-AWS-Machine-Learning/)**
 
 ## Prerequisites
 
